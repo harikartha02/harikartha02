@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am a pre final year Computer Science student at Vellore Institute of Technology. More interested in the software development side of CS 😄
+Current internship projects centered around data science and machine learning. Have previously worked with multiple languages including java and python development.
+
+Currently interested in and learning backend development with Golang
 
 <!--
 **harikartha02/harikartha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
