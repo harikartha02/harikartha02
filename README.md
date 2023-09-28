@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a pre final year Computer Science student at Vellore Institute of Technology. More interested in the software development side of CS 😄
-Current internship projects centered around data science and machine learning. Have previously worked with multiple languages including java and python development.
+Current internship projects centered around machine learning and natural language processing. Have previously worked with multiple languages including java and python development.
 
 Currently interested in and learning backend development with Golang
 
