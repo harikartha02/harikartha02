@@ -13,6 +13,7 @@ Concurrently I am also learning and working on projects focused on backend devel
 
 - 🛠 &nbsp; I’m currently working with Python, ML, Golang
 - 🚀 &nbsp; I’m currently exploring the world of Natural Language Processing and Backend Development
+- 💀 &nbsp; I'm a 5 star problem solver on HackerRank [HackerRank](https://www.hackerrank.com/karthahari2002)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harikartha02).
 - 📫 &nbsp; How to reach me: [Email](mailto:karthahari02@gmail.com)
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/146UZmgfEDcd2Ts7v3A6stW7oQfLqr9-j/view?usp=sharing).
