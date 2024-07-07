@@ -6,13 +6,12 @@
 
 I'm an enthusiastic Software Developer and Machine Learning engineer👨🏻‍💻 currently pursuing my Bachelors in Computer Science 🎓. I love exploring new technologies everyday and never pass up on an opportunity to learn 📱. 
 
-I am currently working for as a Machine Learning intern for EDC CTS Pvt. Ltd and am contributing to their projects in the field of NLP. 
-Concurrently I am also learning and working on projects focused on backend development using Go.
+I am currently working on App and Web development, with the occassional ML and NLP applications on the side. Mostly worked wirh Python, Javascript and Golang, currently learning React-Native.
 
 ### Quick Facts:
 
-- 🛠 &nbsp; I’m currently working with Python, ML, Golang
-- 🚀 &nbsp; I’m currently exploring the world of Natural Language Processing and Backend Development
+- 🛠 &nbsp; I’m currently working with Python, ML, Golang, Javascript
+- 🚀 &nbsp; I’m currently exploring the world of App and Web Development
 - 💀 &nbsp; I'm a 5 star problem solver on [HackerRank](https://www.hackerrank.com/karthahari2002)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harikartha02).
 - 📫 &nbsp; How to reach me: [Email](mailto:karthahari02@gmail.com)
